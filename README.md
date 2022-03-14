@@ -12,7 +12,7 @@ Recently, I have developed an interest in Machine Learning and Data Science. Her
 - Worked on a problem statement for a wellness company – Bellabeat
 - Analysed Fit-Bit smart watch dataset to identify user patterns and used that to provide recommendations about market strategy.
 
-<img src="/images/google2.png" width="500" height="500">
+<img src="/images/google4.png" width="700" height="500">
 
 
 [Project 2: Ted Talks - Text Mining, Sentiment Ananlysis, Topic modelling (LDA)](https://www.kaggle.com/sakshisabnani/ted-talks-text-mining-sentiment-analysis-lda)
