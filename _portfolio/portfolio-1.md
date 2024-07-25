@@ -1,6 +1,6 @@
 ---
 title: "Google Data Analytics Capstone Project"
-excerpt: "A Capstone Data Analytics project for a professional certification from Google.<br/><img src="/images/google4.png" width="700" height="500">"
+excerpt: "A Capstone Data Analytics project for a professional certification from Google."
 collection: portfolio
 ---
 
