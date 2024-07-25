@@ -6,14 +6,4 @@ excerpt: "A Capstone Data Analytics project for a professional certification fro
 ---
 https://www.kaggle.com/code/sakshisabnani/google-data-analytics-capstone-bellabeat/notebook
 
----
-title: "Ted talks - Text Mining, Sentiment Analysis, LDA"
-excerpt: "Cleaned and prepared a Ted Talk script dataset for analysis and topic modelling using Latent Dirichlet Allocation"<br/>
-
-  <img src="/images/treemap.png" width="550" height="400"/>
-  <img src="/images/text1.png" width="400"/> 
-</p>
-collection: portfolio
----
-https://www.kaggle.com/code/sakshisabnani/ted-talks-text-mining-sentiment-analysis-lda
 
