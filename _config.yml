@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sakshi Sabnani"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Sakshi Sabnani "
-description              : &description "personal description"
+description              : &description "Machine Learning Enthusiast"
 url                      : https://sakshisabnani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sakshisabnani/sakshisabnani.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #""
   location         : "Indore, India"
-  employer         : #"Red Brick University"
+  employer         : "SSE | University of London"
   uri              : # URL
   email            : "sakshisabnani@gmail.com" 
 
